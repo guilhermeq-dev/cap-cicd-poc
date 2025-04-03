@@ -3,4 +3,9 @@ service main {
         key id      : UUID;
             order   : String;
     }
+
+    entity Order2{
+        key id      : UUID;
+            order   : String;
+    }
 }
