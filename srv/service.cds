@@ -13,4 +13,8 @@ service main {
         key id      : UUID;
             order   : String;
     }
+    entity Order4   {
+        key id      : UUID;
+            order   : String;
+    }
 }
